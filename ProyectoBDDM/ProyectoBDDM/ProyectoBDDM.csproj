@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>ProyectoBDDM</RootNamespace>
     <AssemblyName>ProyectoBDDM</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -99,11 +100,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="controllers\ControllerActividad.cs" />
+    <Compile Include="controllers\ControllerAsignatura.cs" />
+    <Compile Include="controllers\ControllerCarrera.cs" />
     <Compile Include="controllers\ControllerCurso.cs" />
     <Compile Include="controllers\ControllerCursoEstudiante.cs" />
     <Compile Include="controllers\ControllerDepartamento.cs" />
     <Compile Include="controllers\ControllerEstudiante.cs" />
+    <Compile Include="controllers\ControlleridactividadEstudiantes.cs" />
+    <Compile Include="controllers\ControllerMaterial_est.cs" />
     <Compile Include="controllers\ControllerProfesor.cs" />
+    <Compile Include="controllers\controllerRevision.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
