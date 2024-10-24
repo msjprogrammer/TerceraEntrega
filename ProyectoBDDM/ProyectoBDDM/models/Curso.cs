@@ -13,6 +13,18 @@ namespace ProyectoBDDM.models
         private string nombreC;
         private string cateogoriaC;
 
+        public Curso()
+        {
+        }
+
+        public Curso(int curso_id, string descrpicionC, string nombreC, string cateogoriaC)
+        {
+            this.curso_id = curso_id;
+            this.descrpicionC = descrpicionC;
+            this.nombreC = nombreC;
+            this.cateogoriaC = cateogoriaC;
+        }
+
         public int Curso_id { get => curso_id; set => curso_id = value; }
         public string DescrpicionC { get => descrpicionC; set => descrpicionC = value; }
         public string NombreC { get => nombreC; set => nombreC = value; }

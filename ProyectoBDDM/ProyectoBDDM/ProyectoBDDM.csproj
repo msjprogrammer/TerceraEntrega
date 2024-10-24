@@ -111,12 +111,16 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="models\Actividad.cs" />
+    <Compile Include="models\ActividadEstudiante.cs" />
+    <Compile Include="models\Asignatura.cs" />
     <Compile Include="models\ConnectionBD.cs" />
     <Compile Include="models\Curso.cs" />
     <Compile Include="models\CursoEstudiante.cs" />
     <Compile Include="models\Departamento.cs" />
     <Compile Include="models\Estudiante.cs" />
+    <Compile Include="models\material_est.cs" />
     <Compile Include="models\Profesor.cs" />
+    <Compile Include="models\Revision.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\ProyectoBDDM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\proyectobddm\\proyectobddm\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\ProyectoBDDM\\ProyectoBDDM\\models\\Actividad.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Actividad.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\ProyectoBDDM\\ProyectoBDDM\\models\\Actividad.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\Actividad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:15:10.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
