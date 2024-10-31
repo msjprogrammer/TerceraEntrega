@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoBDDM.controllers
 {
-    class ControllerProfesor
+    class ControllerCursos
     {
     }
 }

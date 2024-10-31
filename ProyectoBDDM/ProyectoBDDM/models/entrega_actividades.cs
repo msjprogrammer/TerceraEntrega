@@ -4,9 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProyectoBDDM.controllers
+namespace ProyectoBDDM.models
 {
-    class ControllerEstudiante
+    internal class entrega_actividades
     {
     }
+
+
 }

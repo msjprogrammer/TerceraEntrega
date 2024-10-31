@@ -99,17 +99,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="controllers\ControllerActividad.cs" />
-    <Compile Include="controllers\ControllerAsignatura.cs" />
-    <Compile Include="controllers\ControllerCarrera.cs" />
-    <Compile Include="controllers\ControllerCurso.cs" />
-    <Compile Include="controllers\ControllerCursoEstudiante.cs" />
-    <Compile Include="controllers\ControllerDepartamento.cs" />
-    <Compile Include="controllers\ControllerEstudiante.cs" />
-    <Compile Include="controllers\ControlleridactividadEstudiantes.cs" />
-    <Compile Include="controllers\ControllerMaterial_est.cs" />
-    <Compile Include="controllers\ControllerProfesor.cs" />
+    <Compile Include="controllers\ControllerActividades.cs" />
+    <Compile Include="controllers\ControllerAsignaturas.cs" />
+    <Compile Include="controllers\ControllerCursos.cs" />
+    <Compile Include="controllers\ControllerCursosEstudiante.cs" />
+    <Compile Include="controllers\ControllerEstudiantes.cs" />
+    <Compile Include="controllers\ControllerProfesores.cs" />
     <Compile Include="controllers\controllerRevision.cs" />
+    <Compile Include="controllers\entrega_actividades.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,16 +114,14 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="models\Actividad.cs" />
-    <Compile Include="models\ActividadEstudiante.cs" />
     <Compile Include="models\Asignatura.cs" />
     <Compile Include="models\ConnectionBD.cs" />
     <Compile Include="models\Curso.cs" />
     <Compile Include="models\CursoEstudiante.cs" />
-    <Compile Include="models\Departamento.cs" />
+    <Compile Include="models\entrega_actividades.cs" />
+    <Compile Include="models\entrega_actividadesBase.cs" />
     <Compile Include="models\Estudiante.cs" />
-    <Compile Include="models\material_est.cs" />
     <Compile Include="models\Profesor.cs" />
-    <Compile Include="models\Revision.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

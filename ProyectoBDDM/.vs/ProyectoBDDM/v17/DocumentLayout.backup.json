@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\ProyectoBDDM\\",
+  "WorkspaceRootPath": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\proyectobddm\\proyectobddm\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\revision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\revision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\material_est.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\material_est.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\marce\\onedrive\\escritorio\\terceraentrega\\proyectobddm\\proyectobddm\\models\\actividadestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\models\\actividadestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Estudiante.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\Estudiante.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:08:55.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Departamento.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Departamento.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\Departamento.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:08:07.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Curso.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Curso.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Curso.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\Curso.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:05:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Revision.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Revision.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Revision.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Revision.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\Revision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:02:40.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "material_est.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\material_est.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\material_est.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\material_est.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\material_est.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:56:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Asignatura.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Asignatura.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\Asignatura.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:51:09.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActividadEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\ActividadEstudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\models\\ActividadEstudiante.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\ActividadEstudiante.cs",
+              "RelativeToolTip": "ProyectoBDDM\\models\\ActividadEstudiante.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA0wAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T22:26:59.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Actividad.cs",
-              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\ProyectoBDDM\\ProyectoBDDM\\models\\Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Actividad.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\models\\Actividad.cs",
-              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\ProyectoBDDM\\ProyectoBDDM\\models\\Actividad.cs",
+              "ToolTip": "C:\\Users\\marce\\OneDrive\\Escritorio\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\models\\Actividad.cs",
               "RelativeToolTip": "ProyectoBDDM\\models\\Actividad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T22:15:10.528Z",
               "EditorCaption": ""
