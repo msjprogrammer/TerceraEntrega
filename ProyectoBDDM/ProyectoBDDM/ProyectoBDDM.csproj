@@ -167,6 +167,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="vista\Actividad.resx">
+      <DependentUpon>Actividad.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="vista\Curso.resx">
       <DependentUpon>Curso.cs</DependentUpon>
     </EmbeddedResource>
