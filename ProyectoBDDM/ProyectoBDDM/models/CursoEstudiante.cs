@@ -10,6 +10,11 @@ namespace ProyectoBDDM.models
     {
         private int curso_estudiante_id;
 
+        public CursoEstudiante(int curso_estudiante_id)
+        {
+            this.curso_estudiante_id = curso_estudiante_id;
+        }
+
         public int Curso_estudiante_id { get => curso_estudiante_id; set => curso_estudiante_id = value; }
     }
 }

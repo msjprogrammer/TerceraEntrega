@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProyectoBDDM
+namespace ProyectoBDDM.vista
 {
-    public partial class Form1 : Form
+    public partial class Actividad : Form
     {
-        public Form1()
+        public Actividad()
         {
             InitializeComponent();
         }

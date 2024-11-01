@@ -16,6 +16,17 @@ namespace ProyectoBDDM.models
         private string telefonoP;
         private string correoP;
 
+        public Profesor(int profesor_id, string nombre1P, string nombre2P, string apellido1P, string apellido2P, string telefonoP, string correoP)
+        {
+            this.profesor_id = profesor_id;
+            this.nombre1P = nombre1P;
+            this.nombre2P = nombre2P;
+            this.apellido1P = apellido1P;
+            this.apellido2P = apellido2P;
+            this.telefonoP = telefonoP;
+            this.correoP = correoP;
+        }
+
         public int Profesor_id { get => profesor_id; set => profesor_id = value; }
         public string Nombre1P { get => nombre1P; set => nombre1P = value; }
         public string Nombre2P { get => nombre2P; set => nombre2P = value; }
