@@ -8,7 +8,7 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>ProyectoBDDM</RootNamespace>
     <AssemblyName>ProyectoBDDM</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
@@ -152,6 +152,12 @@
     <Compile Include="vista\Estudiante.Designer.cs">
       <DependentUpon>Estudiante.cs</DependentUpon>
     </Compile>
+    <Compile Include="vista\InterfazInicioSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vista\InterfazInicioSesion.Designer.cs">
+      <DependentUpon>InterfazInicioSesion.cs</DependentUpon>
+    </Compile>
     <Compile Include="vista\Profesor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -166,12 +172,19 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="vista\Actividad.resx">
       <DependentUpon>Actividad.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="vista\Asignatura.resx">
+      <DependentUpon>Asignatura.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="vista\Curso.resx">
       <DependentUpon>Curso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vista\InterfazInicioSesion.resx">
+      <DependentUpon>InterfazInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="vista\Profesor.resx">
       <DependentUpon>Profesor.cs</DependentUpon>

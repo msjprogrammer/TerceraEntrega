@@ -16,5 +16,17 @@ namespace ProyectoBDDM.vista
         {
             InitializeComponent();
         }
+
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // Actividad
+            // 
+            this.ClientSize = new System.Drawing.Size(1220, 625);
+            this.Name = "Actividad";
+            this.ResumeLayout(false);
+
+        }
     }
 }
