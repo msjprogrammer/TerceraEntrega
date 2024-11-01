@@ -183,6 +183,15 @@
     <EmbeddedResource Include="vista\Curso.resx">
       <DependentUpon>Curso.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="vista\CursoEstudiante.resx">
+      <DependentUpon>CursoEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vista\entrega_actividades.resx">
+      <DependentUpon>entrega_actividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vista\Estudiante.resx">
+      <DependentUpon>Estudiante.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="vista\InterfazInicioSesion.resx">
       <DependentUpon>InterfazInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
