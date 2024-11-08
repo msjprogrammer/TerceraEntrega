@@ -1,50 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\",
+  "WorkspaceRootPath": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\entrega_actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\entrega_actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\controllerprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllerprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\controllerestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllerestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\controllercursosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllercursosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\controllercursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllercursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\controllerasignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllerasignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\controlleractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controlleractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\actividad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\actividad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|d:\\users\\admin-sala3\\desktop\\clon\\clon tercera entrega\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\cursoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\cursoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\entrega_actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\entrega_actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\reysa\\onedrive\\escritorio\\tercera entrega base de datos\\terceraentrega\\proyectobddm\\proyectobddm\\controllers\\entrega_actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\entrega_actividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\controllers\\controllerprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllerprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\controllers\\controllerestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllerestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\controllers\\controllercursosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllercursosestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\controllers\\controllercursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllercursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\controllers\\controllerasignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controllerasignaturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\controllers\\controlleractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\controllers\\controlleractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\actividad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\actividad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,15 +86,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Profesor.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Profesor.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Profesor.cs",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Profesor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:33:12.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Profesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Profesor.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Profesor.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Profesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Profesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:26.631Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterfazInicioSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazInicioSesion.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\InterfazInicioSesion.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazInicioSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\InterfazInicioSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:23.87Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Estudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Estudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Estudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:20.824Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "entrega_actividades.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\entrega_actividades.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\entrega_actividades.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\entrega_actividades.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\entrega_actividades.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:17.692Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursoEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\CursoEstudiante.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\CursoEstudiante.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\CursoEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\CursoEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:12.933Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Curso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Curso.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Curso.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Curso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Curso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:11.491Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Asignatura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Asignatura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:11:49.774Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Asignatura.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:12:10.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Actividad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Actividad.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Actividad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:12:45.435Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Actividad.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.cs",
+              "RelativeToolTip": "ProyectoBDDM\\vista\\Actividad.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:20:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "entrega_actividades.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\entrega_actividades.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\entrega_actividades.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\entrega_actividades.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\entrega_actividades.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\entrega_actividades.cs",
               "RelativeToolTip": "ProyectoBDDM\\controllers\\entrega_actividades.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,24 +238,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ControllerProfesores.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerProfesores.cs",
-              "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerProfesores.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerProfesores.cs",
-              "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerProfesores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:17:37.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "ControllerEstudiantes.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerEstudiantes.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerEstudiantes.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerEstudiantes.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerEstudiantes.cs",
               "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerEstudiantes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "ControllerCursosEstudiante.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursosEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursosEstudiante.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerCursosEstudiante.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursosEstudiante.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursosEstudiante.cs",
               "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerCursosEstudiante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "ControllerCursos.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursos.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursos.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerCursos.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursos.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerCursos.cs",
               "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerCursos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +277,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ControllerAsignaturas.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerAsignaturas.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerAsignaturas.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerAsignaturas.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerAsignaturas.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerAsignaturas.cs",
               "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerAsignaturas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +290,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ControllerActividades.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerActividades.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerActividades.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerActividades.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerActividades.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerActividades.cs",
               "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerActividades.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -149,11 +303,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "ControllerProfesores.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerProfesores.cs",
+              "RelativeDocumentMoniker": "ProyectoBDDM\\controllers\\ControllerProfesores.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\controllers\\ControllerProfesores.cs",
+              "RelativeToolTip": "ProyectoBDDM\\controllers\\ControllerProfesores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:17:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Actividad.Designer.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.Designer.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Actividad.Designer.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.Designer.cs",
+              "ToolTip": "C:\\Users\\reysa\\OneDrive\\Escritorio\\tercera entrega base de datos\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.Designer.cs",
               "RelativeToolTip": "ProyectoBDDM\\vista\\Actividad.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -163,43 +334,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Actividad.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.cs",
-              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Actividad.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Actividad.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBDDM\\vista\\Actividad.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:12:45.435Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Asignatura.cs",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs",
-              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Asignatura.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs",
-              "RelativeToolTip": "ProyectoBDDM\\vista\\Asignatura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:12:10.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Asignatura.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs",
-              "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\Asignatura.cs",
-              "ToolTip": "D:\\Users\\admin-sala3\\Desktop\\clon\\clon tercera entrega\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\Asignatura.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProyectoBDDM\\vista\\Asignatura.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T01:11:49.774Z",
-              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

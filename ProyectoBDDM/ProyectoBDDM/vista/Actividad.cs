@@ -25,7 +25,13 @@ namespace ProyectoBDDM.vista
             // 
             this.ClientSize = new System.Drawing.Size(1220, 625);
             this.Name = "Actividad";
+            this.Load += new System.EventHandler(this.Actividad_Load);
             this.ResumeLayout(false);
+
+        }
+
+        private void Actividad_Load(object sender, EventArgs e)
+        {
 
         }
     }
