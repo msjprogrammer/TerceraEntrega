@@ -39,40 +39,45 @@ namespace ProyectoBDDM.vista
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.Window;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(334, 37);
+            this.label1.Location = new System.Drawing.Point(124, 45);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(431, 73);
+            this.label1.Size = new System.Drawing.Size(527, 91);
             this.label1.TabIndex = 0;
             this.label1.Text = "Iniciar Sesion";
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(206, 462);
+            this.button1.Location = new System.Drawing.Point(218, 349);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(223, 69);
+            this.button1.Size = new System.Drawing.Size(297, 85);
             this.button1.TabIndex = 1;
             this.button1.Text = "Iniciar administrador/Profesor";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(682, 462);
+            this.button2.Location = new System.Drawing.Point(218, 198);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(223, 69);
+            this.button2.Size = new System.Drawing.Size(297, 85);
             this.button2.TabIndex = 2;
             this.button2.Text = "Iniciar usuario/Estudiante";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // InterfazInicioSesion
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1110, 665);
+            this.ClientSize = new System.Drawing.Size(746, 477);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "InterfazInicioSesion";
             this.Text = "InterfazInicioSesion";
             this.ResumeLayout(false);
