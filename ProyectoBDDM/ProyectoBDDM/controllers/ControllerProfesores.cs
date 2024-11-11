@@ -9,5 +9,16 @@ namespace ProyectoBDDM.controllers
 {
     class ControllerProfesores
     {
+        internal bool SeleccionarUsuario(string profesor_id, string passwordP)
+        {
+            bool result = false;
+            string sql = "select profesor_id,passwordP from profesor;";
+            Profesor objs = new Profesor();
+
+            result = objs.SeleccionarUsuario(sql);
+
+
+                return result;
+        }
     }
 }

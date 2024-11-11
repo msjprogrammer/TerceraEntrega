@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ProyectoBDDM.controllers;
+using ProyectoBDDM.models;
+
 
 namespace ProyectoBDDM.vista
 {
@@ -35,6 +38,23 @@ namespace ProyectoBDDM.vista
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string profesor_id = textBox1.Text;
+            string passwordP = textBox1.Text;
+
+            ControllerProfesores objCP = new ControllerProfesores();
+            bool result = objCP.SeleccionarUsuario(profesor_id, passwordP);
+            if (result)
+            {
+
+            }
+            else
+            {
+                MessageBox.Show("Usuario no encontrado");
+            }
         }
     }
 }
