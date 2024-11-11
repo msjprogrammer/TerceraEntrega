@@ -9,12 +9,14 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using ProyectoBDDM.controllers;
 using ProyectoBDDM.models;
+using MySql.Data.MySqlClient;
 
 
 namespace ProyectoBDDM.vista
 {
     public partial class Form1 : Form
     {
+        ConnectionBD ObjConnection= new ConnectionBD();
         public Form1()
         {
             InitializeComponent();
@@ -56,5 +58,10 @@ namespace ProyectoBDDM.vista
                 MessageBox.Show("Usuario no encontrado");
             }
         }
+        internal bool SeleccionarUsuario(string sql)
+        {
+            throw new NotImplementedException();
+        }
+    }
     }
 }
