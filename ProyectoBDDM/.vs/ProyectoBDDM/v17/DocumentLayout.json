@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\user\\documents\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\interfazestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\interfazestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\interfazestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\user\\documents\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\interfazprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\proyectobddm\\vista\\interfazprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\interfazprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|c:\\users\\user\\documents\\terceraentrega\\proyectobddm\\proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3504D956-6E65-4107-BCD6-33840FE89FA5}|ProyectoBDDM\\ProyectoBDDM.csproj|solutionrelative:proyectobddm\\vista\\interfaziniciosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +38,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "InterfazProfesor.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazProfesor.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\InterfazProfesor.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazProfesor.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProyectoBDDM\\vista\\InterfazProfesor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:08:07.053Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-12T01:08:07.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InterfazEstudiante.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazEstudiante.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\InterfazEstudiante.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazEstudiante.cs [Dise\u00F1o]",
               "RelativeToolTip": "ProyectoBDDM\\vista\\InterfazEstudiante.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T01:07:57.642Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-12T01:07:57.642Z"
             },
             {
               "$type": "Document",
@@ -68,14 +66,14 @@
               "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\InterfazInicioSesion.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazInicioSesion.cs",
               "RelativeToolTip": "ProyectoBDDM\\vista\\InterfazInicioSesion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T01:05:22.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "InterfazInicioSesion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\TerceraEntrega\\ProyectoBDDM\\ProyectoBDDM\\vista\\InterfazInicioSesion.cs",
               "RelativeDocumentMoniker": "ProyectoBDDM\\vista\\InterfazInicioSesion.cs",

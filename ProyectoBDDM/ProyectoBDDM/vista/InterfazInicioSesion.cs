@@ -26,14 +26,14 @@ namespace ProyectoBDDM.vista
         {
             InterfazProfesor objIP = new InterfazProfesor();
             objIP = Show();
-            this.Close();
+            this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             InterfazEstudiante objIE = new InterfazEstudiante():
                 objIE = Show();
-            this.Close();
+            this.Hide();
         }
     }
 }
