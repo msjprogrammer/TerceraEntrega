@@ -158,11 +158,11 @@
     <Compile Include="vista\InterfazInicioSesion.Designer.cs">
       <DependentUpon>InterfazInicioSesion.cs</DependentUpon>
     </Compile>
-    <Compile Include="vista\Profesor.cs">
+    <Compile Include="vista\InterfazProfesor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="vista\Profesor.Designer.cs">
-      <DependentUpon>Profesor.cs</DependentUpon>
+    <Compile Include="vista\InterfazProfesor.Designer.cs">
+      <DependentUpon>InterfazProfesor.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -186,8 +186,8 @@
     <EmbeddedResource Include="vista\InterfazInicioSesion.resx">
       <DependentUpon>InterfazInicioSesion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="vista\Profesor.resx">
-      <DependentUpon>Profesor.cs</DependentUpon>
+    <EmbeddedResource Include="vista\InterfazProfesor.resx">
+      <DependentUpon>InterfazProfesor.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
