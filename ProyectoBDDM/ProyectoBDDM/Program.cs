@@ -1,8 +1,10 @@
-﻿using System;
+﻿using ProyectoBDDM.models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ProyectoBDDM.vista;
 
 namespace ProyectoBDDM
 {
@@ -16,7 +18,7 @@ namespace ProyectoBDDM
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new InterfazProfesor();
         }
     }
 }

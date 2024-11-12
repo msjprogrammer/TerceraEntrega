@@ -77,7 +77,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(302, 30);
             this.textBox1.TabIndex = 4;
-            this.textBox1.Text = "ID PROFESOR";
+            this.textBox1.Text = "CORREO";
             // 
             // textBox2
             // 
