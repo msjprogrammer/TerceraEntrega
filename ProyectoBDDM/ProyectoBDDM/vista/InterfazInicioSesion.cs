@@ -31,7 +31,9 @@ namespace ProyectoBDDM.vista
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            InterfazEstudiante objIE = new InterfazEstudiante():
+                objIE = Show();
+            this.Close();
         }
     }
 }

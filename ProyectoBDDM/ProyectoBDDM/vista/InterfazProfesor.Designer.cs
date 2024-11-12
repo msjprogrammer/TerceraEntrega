@@ -1,6 +1,6 @@
 ﻿namespace ProyectoBDDM.vista
 {
-    partial class Form1
+    partial class InterfazProfesor
     {
         /// <summary>
         /// Required designer variable.

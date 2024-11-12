@@ -16,10 +16,10 @@ using System.Reflection;
 
 namespace ProyectoBDDM.vista
 {
-    public partial class Form1 : Form
+    public partial class InterfazProfesor : Form
     {
         ConnectionBD objConnection= new ConnectionBD();
-        public Form1()
+        public InterfazProfesor()
         {
             InitializeComponent();
         }

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProyectoBDDM.vista
 {
-    public partial class Form1 : Form
+    public partial class InterfazEstudiante : Form
     {
-        public Form1()
+        public InterfazEstudiante()
         {
             InitializeComponent();
         }
